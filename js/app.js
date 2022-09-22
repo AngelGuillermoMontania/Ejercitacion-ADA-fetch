@@ -1,0 +1,1 @@
+/* EJERCITACION: MOSTRAR LAS CARDS DE LA LLAMADA A LA API   https://rickandmortyapi.com/api/character  */
